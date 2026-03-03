@@ -67,6 +67,6 @@ This project investigates **alternative neuron aggregation mechanisms** beyond t
 ## Let's Connect
 
 <p align="center">
-  <a href="[https://linkedin.com/in/berkebzt](https://www.linkedin.com/in/berkedenizbozyigit/)"><img src="https://img.shields.io/badge/Let's_connect_on_LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
+  <a href="(https://www.linkedin.com/in/berkedenizbozyigit/)"><img src="https://img.shields.io/badge/Let's_connect_on_LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
   <a href="https://medium.com/@berkedenizbozyigit"><img src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white" alt="Medium"/></a>
 </p>
