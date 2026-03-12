@@ -20,7 +20,7 @@ I'm an **AI/ML Engineer** with an academic background in Computer Science and Ar
 I'm especially interested in:
 
 - Alternative neural computation paradigms
-- Production-grade LLM systems & Agentic AI
+- Production grade LLM systems & Agentic AI
 - Bridging theory with practical ML systems
 - I’m currently working at [AI Tech Builders](https://www.aitechbuilders.com)
 
