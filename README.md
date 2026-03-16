@@ -17,7 +17,7 @@
 ##  About Me
 
 I'm an **AI/ML Engineer** with an academic background in Computer Science and Artificial Intelligence. My work focuses on **understanding and improving how neural networks learn, and scalable AI projects**.
-I'm especially interested in:
+I'm especially interested in
 
 - Alternative neural computation paradigms
 - Production grade LLM systems & Agentic AI
