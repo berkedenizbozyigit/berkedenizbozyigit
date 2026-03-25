@@ -49,8 +49,8 @@ This project investigates **alternative neuron aggregation mechanisms** beyond t
 - Machine Learning, Deep Learning, LLM-based Systems
 - Neural Architectures & Representation Learning
 - Explainable AI & Interpretability
-- Retrieval-Augmented Generation (RAG) & Agentic AI
-- Production ML Systems & Competitive Intelligence
+- Retrieval-Augmented Generation (RAG) & Agentic AI Applications
+- Production AI/ML Systems & Competitive Intelligence
 
 ---
 
