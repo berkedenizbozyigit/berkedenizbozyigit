@@ -22,7 +22,7 @@ I'm especially interested in:
 - Alternative neural computation paradigms
 - Production grade LLM systems & Agentic AI
 - Bridging theory with practical ML systems
-- I’m currently working at [AI Tech Builders](https://www.aitechbuilders.com)
+- I’m currently working at [AI Tech Builders](https://www.aitechbuilders.com) as a founding engineer.
 
 ---
 
