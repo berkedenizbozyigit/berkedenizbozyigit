@@ -15,7 +15,7 @@
 
 ##  About Me
 
-I'm a **Founding AI/ML Engineer** with an academic background in Computer Science and Artificial Intelligence. My work focuses on **understanding and improving how neural networks learn, and scalable AI projects**.
+I'm a **AI/ML Engineer** with an academic background in Computer Science and Artificial Intelligence. My work focuses on **understanding and improving how neural networks learn, and scalable AI projects**.
 I'm especially interested in:
 
 - Alternative neural computation paradigms
@@ -30,26 +30,28 @@ I'm especially interested in:
 ### Novel Artificial Neurons
 **MSc Dissertation Project**
 
-🔗 **Repository:** [github.com/berkedenizbozyigit/novel-artificial-neurons](https://github.com/berkedenizbozyigit/novel-artificial-neurons)
+**Repository:** [github.com/berkedenizbozyigit/novel-artificial-neurons](https://github.com/berkedenizbozyigit/novel-artificial-neurons)  
+**Preprint:** [arXiv](https://arxiv.org/abs/2603.19344)
 
-> Exploring nonlinear aggregation functions in artificial neurons
+My MSc dissertation focuses on rethinking one of the most basic building blocks in neural networks: the neuron itself.
 
-This project investigates **alternative neuron aggregation mechanisms** beyond the standard weighted sum, aiming to improve representational capacity and learning dynamics in neural networks.
+Instead of relying only on the standard weighted-sum formulation, this project investigates alternative aggregation functions and their effect on learning dynamics, robustness, and representational power. As part of this work, I implemented **F-Mean**, **Gaussian**, and **Hybrid** neuron variants in **PyTorch** and evaluated them on benchmark vision tasks.
 
-**Key Results:**
-- 87.61% accuracy vs 87.33% baseline on CIFAR-10
-- 0.991 robustness score vs 0.890 standard
-- Implemented F-Mean, Gaussian, and Hybrid neurons in **PyTorch**
+**Selected Results**
+- **87.61%** accuracy on **CIFAR-10** vs. **87.33%** baseline
+- **0.991** robustness score vs. **0.890** for standard neurons
+- End-to-end implementation and experimentation in **PyTorch**
 
 ---
 
-##  Research & Technical Interests
+## Research & Technical Interests
 
-- Machine Learning, Deep Learning, LLM-based Systems
-- Neural Architectures & Representation Learning
-- Explainable AI & Interpretability
-- Retrieval-Augmented Generation (RAG) & Agentic AI Applications
-- Production AI/ML Systems & Competitive Intelligence
+- Machine Learning, Deep Learning, and LLM-based Systems
+- Neural Architectures and Representation Learning
+- Explainable AI and Interpretability
+- Retrieval-Augmented Generation (RAG) and Agentic AI Applications
+- Production AI/ML Systems
+- Competitive Intelligence
 
 ---
 
