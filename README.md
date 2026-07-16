@@ -26,7 +26,7 @@ A few areas I enjoy working on:
 - Alternative neural computation paradigms
 - Production-grade LLM systems and agentic AI
 - Representation learning and model behavior
-- Applied ML systems built with a strong engineering focus
+- Applied AI/ML systems built with a strong engineering focus
 
 ---
 
