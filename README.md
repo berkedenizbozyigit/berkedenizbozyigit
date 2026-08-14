@@ -20,7 +20,7 @@
 
 I'm an **AI/ML Engineer** with a background in **Computer Science** and **Artificial Intelligence**. I'm particularly interested in how models learn, how architectures can be improved and how research ideas can be turned into practical systems that people actually use.
 
-Currently, I work at [AI Tech Builders](https://www.aitechbuilders.com) as a **Founding Engineer**.
+Currently, I work as a **Founding Engineer**.
 
 A few areas I enjoy working on:
 - Alternative neural computation paradigms
