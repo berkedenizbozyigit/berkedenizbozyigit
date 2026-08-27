@@ -18,7 +18,7 @@
 
 ## About Me
 
-I'm an **AI/ML Engineer** with a background in **Computer Science** and **Artificial Intelligence**. I'm particularly interested in how models learn, how architectures can be improved and how research ideas can be turned into practical systems that people actually use.
+I'm a **Forward Deployed AI/ML Engineer** with a background in **Computer Science** and **Artificial Intelligence**. I'm particularly interested in how models learn, how architectures can be improved and how research ideas can be turned into practical systems that people actually use.
 
 Currently, I work as a **Founding Engineer**.
 
